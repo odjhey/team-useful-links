@@ -1,4 +1,4 @@
-# Useful links for your reading
+# Useful links that are relevant to our stack and workflows for your reading
 
 ## Starters
 
@@ -6,6 +6,10 @@
 
 1.  https://reactjs.org/docs/thinking-in-react.html
 1.  https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
+
+### what is git
+
+1. Feature branch workflow https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 
 ## Advanced
 

@@ -13,6 +13,11 @@
 
 ## Advanced
 
+## Node
+1. events in node https://itnext.io/the-observer-pattern-in-nodejs-c0cfffb4744a
+
 ## Compilations
 
 1. Slides for programming courses https://marko-knoebl.github.io/slides/index.html
+
+

@@ -11,6 +11,10 @@
 
 1. Feature branch workflow https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 
+### CSS
+
+1. simple css layouting https://1linelayouts.glitch.me/
+
 ## Advanced
 
 ## Node

@@ -18,6 +18,7 @@
 ## Advanced
 
 ## Node
+1. Best Practices (MUST READ) - https://github.com/goldbergyoni/nodebestpractices
 1. events in node https://itnext.io/the-observer-pattern-in-nodejs-c0cfffb4744a
 
 ## Compilations

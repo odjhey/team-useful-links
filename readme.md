@@ -19,6 +19,7 @@
 
 ## Node
 1. Best Practices (MUST READ) - https://github.com/goldbergyoni/nodebestpractices
+1. another node best practices - https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/
 1. events in node https://itnext.io/the-observer-pattern-in-nodejs-c0cfffb4744a
 1. adding transaction ids for logging https://medium.com/trabe/continuation-local-storage-for-easy-context-passing-in-node-js-2461c2120284
 
